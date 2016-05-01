@@ -1,0 +1,51 @@
+CACHE MANIFEST
+# sw.bundle: ng-cli
+# sw.version: 00a3cb2be438a7280dde1754f3634fe9412641b9
+# sw.file.hash: d09ddb772e790ad7db90825cf950871facd27a7f
+/app/environment.js
+# sw.file.hash: 6d5aea2be43890b2ba7d466d7a20548640015984
+/app/environment.js.map
+# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/app/shared/index.js
+# sw.file.hash: 068493a1b2b888f18c220f8b75560b6288017aea
+/app/shared/index.js.map
+# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/app/vk-post-commentators.component.css
+# sw.file.hash: 7c8eed8ef44485a89f154b84d937e3487cb49ef6
+/app/vk-post-commentators.component.html
+# sw.file.hash: f9351ee8c64237947c51730ad676cf12cdefc9aa
+/app/vk-post-commentators.component.js
+# sw.file.hash: bf428551af2b0eadc683e627937245d52d33763f
+/app/vk-post-commentators.component.js.map
+# sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
+/favicon.ico
+# sw.file.hash: e8f73b534811a638dc90660eb2907d6846f9ef4b
+/index.html
+# sw.file.hash: b8df54f96d95feef9535ab6edc7c95029e3f2bb3
+/main.js
+# sw.file.hash: 40dce5e0605c0dea201d003a27ca15ee05722c01
+/main.js.map
+# sw.file.hash: 82e4dcb9f1c86a3ce32268e7cfa61625163e0906
+/system-config.js
+# sw.file.hash: ff89aa08f0084bd24f19c2826fad688f8977d2f2
+/system-config.js.map
+# sw.file.hash: 2b8cab9fde0f48a246094c5ce28c75e530579513
+/tsconfig.json
+# sw.file.hash: e5276ead9557ffe3cee53731a6025cdafd234f1b
+/vendor/angular2/bundles/angular2-polyfills.js
+# sw.file.hash: a0ce24ebed89f4d34e47e2a235ba5a2cdb7417da
+/vendor/angular2/bundles/angular2.dev.js
+# sw.file.hash: 63809ef9cd25fb043aa85d78277daae238716910
+/vendor/angular2/bundles/http.dev.js
+# sw.file.hash: 0a999c93acd7102b5d990b384d1a3cfcb0b301e8
+/vendor/angular2/bundles/router.dev.js
+# sw.file.hash: 64b77bee26ce7c8298ed454d73776c7602d41694
+/vendor/angular2/bundles/upgrade.dev.js
+# sw.file.hash: 2adbdc3a7b6d85ac53b76b52234f28b16c88c7b2
+/vendor/es6-shim/es6-shim.js
+# sw.file.hash: 736fe8675af5630486329adf5efe12ec7be449b1
+/vendor/rxjs/bundles/Rx.js
+# sw.file.hash: 064ab212cfd9e125474ae3bbb600c366b31e79cb
+/vendor/systemjs/dist/system-polyfills.js
+# sw.file.hash: 83128f4a4209eb7b16ad0bb729fda6939bc450fc
+/vendor/systemjs/dist/system.src.js
