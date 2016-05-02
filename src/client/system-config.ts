@@ -1,6 +1,7 @@
 const barrels: string[] = [
   'app',
   'app/shared',
+  'app/shared/error-display',
   /** @cli-barrel */
 ];
 
