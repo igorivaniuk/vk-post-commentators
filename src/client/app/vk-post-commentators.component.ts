@@ -120,7 +120,7 @@ export class VkPostCommentatorsApp {
           if (rs.response.count > ((page * 100) - 100)) {
             setTimeout(() => {
               this.loadCommentsRecursion(owner_id, post_id, ++page);
-            }, 30);
+            }, 10);
 
 
           } else {
