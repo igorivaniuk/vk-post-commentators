@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: df532540b222c2e10166f83413878cab2c5efbfc
+# sw.version: e4da9afb77e66142c5093f5b9495881c147e69a5
 # sw.file.hash: d09ddb772e790ad7db90825cf950871facd27a7f
 /app/environment.js
 # sw.file.hash: 6d5aea2be43890b2ba7d466d7a20548640015984
@@ -35,11 +35,11 @@ CACHE MANIFEST
 /app/shared/index.js.map
 # sw.file.hash: 993a95fda40f11b2955d518ea6ef4aaf8f22a602
 /app/vk-post-commentators.component.css
-# sw.file.hash: b3db161255863ea307bf792c09026c9673fa4c73
+# sw.file.hash: 3b3195cdbc03555a41fee0230e38548309999cdc
 /app/vk-post-commentators.component.html
-# sw.file.hash: e446addce2784cb9361321de463051bccbc25eb0
+# sw.file.hash: 80d0a38a997bca80a643fbbe7f39333eec2ca473
 /app/vk-post-commentators.component.js
-# sw.file.hash: 0d354fb99d252a9af4da48c1ae120c22edf39b5c
+# sw.file.hash: 2d9ab1d6a4259523b8ea72e534f78335d9dd65c5
 /app/vk-post-commentators.component.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
