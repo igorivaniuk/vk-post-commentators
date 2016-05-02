@@ -1,33 +1,57 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 00a3cb2be438a7280dde1754f3634fe9412641b9
+# sw.version: df532540b222c2e10166f83413878cab2c5efbfc
 # sw.file.hash: d09ddb772e790ad7db90825cf950871facd27a7f
 /app/environment.js
 # sw.file.hash: 6d5aea2be43890b2ba7d466d7a20548640015984
 /app/environment.js.map
-# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+# sw.file.hash: a32ce5a519ea3f1f1c1799de0c1f2ce41e6a4ee3
+/app/service/data-store.service.js
+# sw.file.hash: 6fb789113f5f131a816250f26adc68527e0040c0
+/app/service/data-store.service.js.map
+# sw.file.hash: 0e960f440a312656d44b4453ca013ed17c347d38
+/app/service/error.service.js
+# sw.file.hash: 9d809b36f4b7e54925e2ce6d09643a365d2b03ea
+/app/service/error.service.js.map
+# sw.file.hash: 52c5d50d3ea2278792f12ed946cf2c4f0a4efb5e
+/app/service/vk-api.service.js
+# sw.file.hash: 6ffcfe3e905095e25f96e63997f6835fa53dd15d
+/app/service/vk-api.service.js.map
+# sw.file.hash: c730b60eb34ae53f2b102179fd15115fe2c8d165
+/app/shared/error-display/error-display.component.css
+# sw.file.hash: 51d84253c305709c3c0e2aedae07ad1971a904e1
+/app/shared/error-display/error-display.component.html
+# sw.file.hash: c6c222709a3d34a43d571e0751f89bd764aebc0e
+/app/shared/error-display/error-display.component.js
+# sw.file.hash: 9c068feb8fcb7d601e340f847a488be82b5b99ca
+/app/shared/error-display/error-display.component.js.map
+# sw.file.hash: 6cc5f81fefee1854269cb2180c2aa2b3352c80f7
+/app/shared/error-display/index.js
+# sw.file.hash: 29160d676f335a45423ae7ae0edeb43cc90b8bd1
+/app/shared/error-display/index.js.map
+# sw.file.hash: a426ec7802c2485570bd78ac590acd97788d2146
 /app/shared/index.js
-# sw.file.hash: 068493a1b2b888f18c220f8b75560b6288017aea
+# sw.file.hash: d648bd08f8d3312da6b2ba06d56b1171aa532dc6
 /app/shared/index.js.map
-# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+# sw.file.hash: 993a95fda40f11b2955d518ea6ef4aaf8f22a602
 /app/vk-post-commentators.component.css
-# sw.file.hash: 7c8eed8ef44485a89f154b84d937e3487cb49ef6
+# sw.file.hash: b3db161255863ea307bf792c09026c9673fa4c73
 /app/vk-post-commentators.component.html
-# sw.file.hash: f9351ee8c64237947c51730ad676cf12cdefc9aa
+# sw.file.hash: e446addce2784cb9361321de463051bccbc25eb0
 /app/vk-post-commentators.component.js
-# sw.file.hash: bf428551af2b0eadc683e627937245d52d33763f
+# sw.file.hash: 0d354fb99d252a9af4da48c1ae120c22edf39b5c
 /app/vk-post-commentators.component.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
-# sw.file.hash: e8f73b534811a638dc90660eb2907d6846f9ef4b
+# sw.file.hash: a26ec4cb238e53cb36d878518df088d5a16a8935
 /index.html
 # sw.file.hash: b8df54f96d95feef9535ab6edc7c95029e3f2bb3
 /main.js
 # sw.file.hash: 40dce5e0605c0dea201d003a27ca15ee05722c01
 /main.js.map
-# sw.file.hash: 82e4dcb9f1c86a3ce32268e7cfa61625163e0906
+# sw.file.hash: 6f896c38821790fb5dc16e25d1c810ec544fb434
 /system-config.js
-# sw.file.hash: ff89aa08f0084bd24f19c2826fad688f8977d2f2
+# sw.file.hash: a7c47e4120251c810dcb1fee92e4f44e8648c68b
 /system-config.js.map
 # sw.file.hash: 2b8cab9fde0f48a246094c5ce28c75e530579513
 /tsconfig.json
@@ -41,6 +65,38 @@ CACHE MANIFEST
 /vendor/angular2/bundles/router.dev.js
 # sw.file.hash: 64b77bee26ce7c8298ed454d73776c7602d41694
 /vendor/angular2/bundles/upgrade.dev.js
+# sw.file.hash: 6c3f0c97a5c7e1ef6453d6b64e875b5eb141d397
+/vendor/bootstrap/dist/css/bootstrap-theme.css
+# sw.file.hash: 29d019dd007929a57c564b2b85785e4e12e58db2
+/vendor/bootstrap/dist/css/bootstrap-theme.css.map
+# sw.file.hash: bcb96e31a2b8fed5575995fa0c58293e64972116
+/vendor/bootstrap/dist/css/bootstrap-theme.min.css
+# sw.file.hash: 55253bf57e974dc89014e57783a1a4c737e7c867
+/vendor/bootstrap/dist/css/bootstrap-theme.min.css.map
+# sw.file.hash: 4316dcfb54e1b0a428e1d37203a4028fd0408298
+/vendor/bootstrap/dist/css/bootstrap.css
+# sw.file.hash: 85cacfd84a6258ed0e193874efa31c87f86b9e87
+/vendor/bootstrap/dist/css/bootstrap.css.map
+# sw.file.hash: 8eb176c70b9cfa6871b76d6dc98fb526e7e9b3de
+/vendor/bootstrap/dist/css/bootstrap.min.css
+# sw.file.hash: 95fb9d7b83bebc9c37cefee87514f5979ee8785d
+/vendor/bootstrap/dist/css/bootstrap.min.css.map
+# sw.file.hash: 86b6f62b7853e67d3e635f6512a5a5efc58ea3c3
+/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+# sw.file.hash: de51a8494180a6db074af2dee2383f0a363c5b08
+/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+# sw.file.hash: 44bc1850f570972267b169ae18f1cb06b611ffa2
+/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+# sw.file.hash: 278e49a86e634da6f2a02f3b47dd9d2a8f26210f
+/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+# sw.file.hash: ca35b697d99cae4d1b60f2d60fcd37771987eb07
+/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+# sw.file.hash: 8cf4186ce86777b4b408ce308ca9f66dd421f509
+/vendor/bootstrap/dist/js/bootstrap.js
+# sw.file.hash: 791aa054a026bddc0de92bad6cf7a1c6e73713d5
+/vendor/bootstrap/dist/js/bootstrap.min.js
+# sw.file.hash: e2b7590d6ec1fdac66b01fdf66ae0879f53b1262
+/vendor/bootstrap/dist/js/npm.js
 # sw.file.hash: 2adbdc3a7b6d85ac53b76b52234f28b16c88c7b2
 /vendor/es6-shim/es6-shim.js
 # sw.file.hash: 736fe8675af5630486329adf5efe12ec7be449b1

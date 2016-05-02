@@ -1,5 +1,30 @@
-<p>
-  vk-post-commentators Works!
-</p>
+<div class="container">
+  <div class="jumbotron">
+    <form class="form-inline">
+      <div class="form-group">
+        <label for="exampleInputName2">post link</label>
+        <input [disabled]="loading" #link value="https://vk.com/wall-101209760_1673817" type="text" class="form-control" id="exampleInputName2" placeholder="https://vk.com/wall-87363429_18">
+      </div>
+      <button [disabled]="loading" type="submit" class="btn btn-default" (click)="check(link.value)">Check</button>
+      <span *ngIf="loading">loading page: {{currentPage}} of {{allPage}}</span>
+    </form>
+  </div>
+
+  <div *ngIf="topComments.length" class="row">
+    <div class="col-xs-2" [class.sorted]="sorted == 'stickers'" (click)="sortBy('stickers')">stickers</div>
+    <div class="col-xs-2" [class.sorted]="sorted == 'count'" (click)="sortBy('count')">all</div>
+    <div class="col-xs-2" [class.sorted]="sorted == 'likes'" (click)="sortBy('likes')">likes</div>
+    <div class="col-xs-2">UserId</div>
+  </div>
+  <div *ngFor="#user of topComments" class="row">
+    <div class="col-xs-2">{{user.stickers}}</div>
+    <div class="col-xs-2">{{user.count}}</div>
+    <div class="col-xs-2">{{user.likes}}</div>
+    <div class="col-xs-2"><a target="_blank" href="http://vk.com/id{{user.uid}}">{{user.uid}}</a></div>
+  </div>
+
+</div>
 
 <router-outlet></router-outlet>
+
+<error-display></error-display>
